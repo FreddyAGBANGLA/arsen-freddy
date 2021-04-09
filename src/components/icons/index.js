@@ -1,2 +1,2 @@
 /* eslint-disable */
-require('./pin')
+require('./ic_pin')
