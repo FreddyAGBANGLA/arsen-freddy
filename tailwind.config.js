@@ -460,7 +460,10 @@ module.exports = {
       20: '20',
       30: '30',
       40: '40',
-      50: '50'
+      50: '50',
+      25: '25',
+      75: '75',
+      100: '100'
     },
     gap: theme => theme('spacing'),
     gridTemplateColumns: {

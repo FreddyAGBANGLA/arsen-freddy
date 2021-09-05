@@ -1,3 +1,20 @@
 {
-  "title": "41DEVS VueJS Template"
+  "title": "41DEVS VueJS Template",
+  
+  "description_accueil": "Chez Arsen, nous pensons que se protéger et protéger sa famille avec une assurance maladie de qualité devrait être facile et abordable.",
+  "slogan": "L'assurance santé simple et transparente",
+  "economiseParAn": "Economisé par an sur vos soins",
+  "chronoPourSouscrire": "chrono pour souscrire chez Arsen",
+  "plusRapide": "plus rapide aux remboursements",
+  "plusDeCliniques": "plus de cliniques et de pharmacie que la moyenne",
+  "description_1": "Des étapes simples et intuitives pour une expérience fluide de bout en bout. ",
+  "title_1": "Comment ça marche ? ",
+  "titreSlide1": "Paiements par tiers-payant",
+  "titreSlide2": "Remboursements en quelques heures",
+  "titreSlide3": "Souscriptions en 2min",
+  "descriptionSlide": "Nos clients bénéficient d’un vaste réseau de professionnels de la santé. Ils économisent sur les dépenses personnelles inutiles grâce à l’expérience unique que nous construisons chaque jour ensemble prenant en compte leurs retours d’expérience.",
+  "btn_lire_tout": "Lire tout...",
+
+  
+  "description_footer": "L'agence d'assurance Arsen Intl SAS agit en tant <br>qu'agent de la compagnie d'assurance XXXXXX en <br>vendant cette police d'assurance. Elle reçoit une<br> compensation basée sur les primes des polices<br> d'assurance qu'elle vend. De plus amples <br>informations sont disponibles sur demande."
 }
